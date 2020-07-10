@@ -1,2 +1,2 @@
 # breweries
-a simple angular app
+a simple app using Angular 8
